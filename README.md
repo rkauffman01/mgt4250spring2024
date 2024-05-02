@@ -1,2 +1,2 @@
-# mgt4250spring2024
-This is a repository for MGT4250
+# MGT4250 Spring 2024 Course Project
+Author: Name, Email address
