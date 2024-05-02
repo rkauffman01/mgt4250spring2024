@@ -11,3 +11,5 @@ Author: Hyunuk Kim, hkim6@elon.edu
 - This is *especially* **important** because
  1. Reason 1
  2. Reason 2 [Elon University](https://elon.edu)
+
+![kai province](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/9aaefde7-d1c5-4980-8c8e-ef7e45e8b7ce)
