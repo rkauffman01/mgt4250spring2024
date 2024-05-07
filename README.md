@@ -16,6 +16,8 @@ Author: Ryan Kauffman (rkauffman@elon.edu), Paul Walker (pwalker3@elon.edu), Gra
 ### "Data Descriptions"
 
 ### "Interpreting Visualizations"
+## Tableau Public Link
+https://public.tableau.com/views/AlcoholConsumputionDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/072e4f59-be7e-44cb-9d40-c811c94e5671)
 
