@@ -12,6 +12,12 @@ Authors: Ryan Kauffman (rkauffman@elon.edu), Paul Walker (pwalker3@elon.edu), Gr
  2. Reason 2 [Elon University](https://elon.edu)
 
 ### "Data Description"
+The dataset contains numerous categories that could shed light on what causes student drinking as well as the affects of student alcohol consumption. The columns of data used in our visualizations include:
+- Weekday alcohol consumption (Dalc), and weekend alcohol consumption (Walc), is a rating of 1-4, with 4 being the highest.
+- Grades were not on a 100 point scale, but a 20 point scale. There were two mid-term grades, G1 and G2, and the final grade of G3 for each student.
+- Absences are the number of times each student was not present in class.
+- Failures are the number of times each student failed a class.
+There are other columns of data for each student in the data set, however, they did not appear impactful in the level of weekday and weekend alcohol consumption and/or in analyzing how the level of drinking impacted the academic performance for the students.
 
 ### "Interpreting Visualizations"
 ### Tableau Public Link
