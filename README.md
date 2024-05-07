@@ -31,12 +31,12 @@ URL: http://localhost:8888/notebooks/Alcohol%20Consumption%20ML.ipynb
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/7921f8a1-77e6-49a1-b70e-50ec34b7f79f)
 ### Explanation: 
 
+Because we had so many variables within this dataset, we decided to use a decision tree to help us determine variables that had the greatest impact on predicting the final grades of the students. We used our existing data set with the train_test_split import from sklearn in order to create our training data. We found that absences, failures, and weekend alcohol consumption were the 3 biggest predictor variables for determining final grade. However, failures and absences were the two most significant indicators of grade. Going forward, we will be investigating how much alcohol consumption is correlated with failures and absences. 
 
 ## Final Grades by Drinking Averages
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/072e4f59-be7e-44cb-9d40-c811c94e5671)
 ### Explanation: 
 This visualization investigates the final grades of the courses and compares those grades with the amount of drinking each student partakes in. The results show a direct correlation between better grades and less alcohol consumption. This is a clear indicator that alcohol consumption can inhibit academic ability. 
-
 
 ## Final Grades by Absences and Failures
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/5b516f98-8b0c-42e6-a355-60264cd66755)
