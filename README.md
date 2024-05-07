@@ -17,6 +17,7 @@ The dataset contains numerous categories that could shed light on what causes st
 - Grades were not on a 100 point scale, but a 20 point scale. There were two mid-term grades, G1 and G2, and the final grade of G3 for each student.
 - Absences are the number of times each student was not present in class.
 - Failures are the number of times each student failed a class.
+
 There are other columns of data for each student in the data set, however, they did not appear impactful in the level of weekday and weekend alcohol consumption and/or in analyzing how the level of drinking impacted the academic performance for the students.
 
 ### "Interpreting Visualizations"
