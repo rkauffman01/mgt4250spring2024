@@ -32,7 +32,8 @@ Tableau Public URL: https://public.tableau.com/views/AlcoholConsumputionDashboar
 
 ## Final Grades by Drinking Averages
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/072e4f59-be7e-44cb-9d40-c811c94e5671)
-### Explanation: This visualization investigates the final grades of the courses and compares those grades with the amount of drinking each student partakes in. The results show a direct correlation between better grades and less alcohol consumption. This is a clear indicator that alcohol consumption can inhibit academic ability. 
+### Explanation: 
+This visualization investigates the final grades of the courses and compares those grades with the amount of drinking each student partakes in. The results show a direct correlation between better grades and less alcohol consumption. This is a clear indicator that alcohol consumption can inhibit academic ability. 
 
 
 ## Final Grades by Absences and Failures
@@ -48,7 +49,7 @@ Tableau Public URL: https://public.tableau.com/views/AlcoholConsumputionDashboar
 ## Failures and Alcohol
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/c89b8ffa-dc05-4b11-a210-7f9c510c5d5e)
 ### Explanation:
-
+This visualization examines the relationship between alcohol consumption and number of failures. The maximum number of failures a student could have was 3, and there is a clear correlation that shows the higher number of absences has a higher level of alcohol consumption. Going back to the original question: How does alcohol consumption affect academic effort/performance? This visualization clearly indicates that a causation of receiving a failing grade in a class can be linked to higher levels of alcohol consumption. 
 
 
 
