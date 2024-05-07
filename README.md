@@ -1,9 +1,8 @@
 # MGT4250 Spring 2024 Course Project
-Author: Name, Email address
+Author: Ryan Kauffman (rkauffman@elon.edu), Paul Walker (pwalker3@elon.edu), Grant Ardell (gardell@elon.edu)
 
-# MGT4250 Spring 2024 Course Project
-Author: Hyunuk Kim, hkim6@elon.edu
 ## Project Description
+
 ### Questions of interest
 - Question 1
 - Question 2
@@ -19,11 +18,6 @@ Author: Hyunuk Kim, hkim6@elon.edu
 ### "Interpreting Visualizations"
 
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/072e4f59-be7e-44cb-9d40-c811c94e5671)
-
-
-
-
-
 
 ### "Discussion & Summary"
 
