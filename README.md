@@ -20,19 +20,28 @@ Tableau Public URL: https://public.tableau.com/views/AlcoholConsumputionDashboar
 
 ## Decision Tree
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/7921f8a1-77e6-49a1-b70e-50ec34b7f79f)
+### Explanation:
 
 
 ## Final Grades by Drinking Averages
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/072e4f59-be7e-44cb-9d40-c811c94e5671)
+### Explanation:
+
 
 ## Final Grades by Absences and Failures
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/5b516f98-8b0c-42e6-a355-60264cd66755)
+### Explanation:
+
 
 ## Absences and Alcohol
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/8371a498-2583-4e70-a55e-e0e79a80c493)
+### Explanation:
+
 
 ## Failures and Alcohol
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/c89b8ffa-dc05-4b11-a210-7f9c510c5d5e)
+### Explanation:
+
 
 
 
