@@ -20,7 +20,7 @@ Tableau Public URL: https://public.tableau.com/views/AlcoholConsumputionDashboar
 
 ## Decision Tree
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/7921f8a1-77e6-49a1-b70e-50ec34b7f79f)
-### Explanation:
+### Explanation: This visualization
 
 
 ## Final Grades by Drinking Averages
