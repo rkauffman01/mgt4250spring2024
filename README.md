@@ -1,4 +1,4 @@
-# MGT4250 Spring 2024 Course Project
+# MGT4250 Spring 2024 Course Project: Alcohol Consumption Effect on Grades
 Author: Ryan Kauffman (rkauffman@elon.edu), Paul Walker (pwalker3@elon.edu), Grant Ardell (gardell@elon.edu)
 
 ## Project Description
@@ -14,10 +14,13 @@ Author: Ryan Kauffman (rkauffman@elon.edu), Paul Walker (pwalker3@elon.edu), Gra
 ### "Data Description"
 
 ### "Interpreting Visualizations"
-## Tableau Public Link
-https://public.tableau.com/views/AlcoholConsumputionDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+### Tableau Public Link
+
+Tableau Public URL: https://public.tableau.com/views/AlcoholConsumputionDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 ## Decision Tree
+![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/7921f8a1-77e6-49a1-b70e-50ec34b7f79f)
+
 
 ## Final Grades by Drinking Averages
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/072e4f59-be7e-44cb-9d40-c811c94e5671)
