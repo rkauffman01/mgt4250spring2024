@@ -21,11 +21,13 @@ The dataset contains numerous categories that could shed light on what causes st
 There are other columns of data for each student in the data set, however, they did not appear impactful in the level of weekday and weekend alcohol consumption and/or in analyzing how the level of drinking impacted the academic performance for the students.
 
 ### "Interpreting Visualizations"
-### Tableau Public Link
+## Tableau Public Link
+URL: https://public.tableau.com/views/AlcoholConsumputionDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
-Tableau Public URL: https://public.tableau.com/views/AlcoholConsumputionDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+## JupyterNotebook Link (for decision tree code)
+URL: http://localhost:8888/notebooks/Alcohol%20Consumption%20ML.ipynb
 
-## Decision Tree
+## Decision Tree (predictor variable: final grade)
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/7921f8a1-77e6-49a1-b70e-50ec34b7f79f)
 ### Explanation: 
 
@@ -51,6 +53,15 @@ This visualization investigates the final grades of the courses and compares tho
 ### Explanation:
 This visualization examines the relationship between alcohol consumption and number of failures. The maximum number of failures a student could have was 3, and there is a clear correlation that shows the higher number of absences has a higher level of alcohol consumption. Going back to the original question: How does alcohol consumption affect academic effort/performance? This visualization clearly indicates that a causation of receiving a failing grade in a class can be linked to higher levels of alcohol consumption. 
 
+### What factors are correlated with students drinking?
+## Decision tree (predictor variable: Weekend Alcohol Consumption)
+
+![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/ddded9c0-c996-4773-971c-532635d0bc8a)
+
+
+## Decision tree (predictor variable: Weekday Alcohol Consumption)
+
+![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/6e11d60b-49b7-4db8-9f67-b991710e02b4)
 
 
 ### "Discussion & Summary"
