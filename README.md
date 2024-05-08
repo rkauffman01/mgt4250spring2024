@@ -54,14 +54,18 @@ This visualization looks at the level of weekend and weekday alcohol consumption
 This visualization examines the relationship between alcohol consumption and number of failures. The maximum number of failures a student could have was 3, and there is a clear correlation that shows the higher number of absences has a higher level of alcohol consumption. Going back to the original question: How does alcohol consumption affect academic effort/performance? This visualization clearly indicates that a causation of receiving a failing grade in a class can be linked to higher levels of alcohol consumption. 
 
 ## What factors are correlated with students drinking?
+So, we have some definitive evidence that alcohol consumption is causiing absences and failures, which in turn, is keeping students from performing well academically. But what are the factors that are most associated with their alcohol usage?
 ### Decision tree (predictor variable: Weekend Alcohol Consumption)
 
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/ddded9c0-c996-4773-971c-532635d0bc8a)
 
-
+### Explanation:
+Here, we see that go_out
 ### Decision tree (predictor variable: Weekday Alcohol Consumption)
 
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/6e11d60b-49b7-4db8-9f67-b991710e02b4)
+
+### Explanation:
 
 
 ### "Discussion & Summary"
