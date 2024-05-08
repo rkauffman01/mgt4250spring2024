@@ -2,7 +2,8 @@
 Authors: Ryan Kauffman (rkauffman@elon.edu), Paul Walker (pwalker3@elon.edu), Grant Ardell (gardell@elon.edu)
 
 ## Project Description
-The goal of this project is to identify the factors that best indicate a tendency for a student to consume alcohol, and to determine how alcohol consumption affects academic efforts or success.
+This repository is a course project for MGT4250 at Elon University. Using data found on Kaggle, we set out to create a project in which we could use visualizations to explain and discuss its relevance in response to questions of interest. The goal of this project is to identify the factors that best indicate a tendency for a student to consume alcohol, and to determine how alcohol consumption affects academic efforts or success.
+
 ### Questions of interest
 - What factors indicate a tendency for a student to consume alcohol?
 - Does alcohol affect academic efforts or success?
@@ -11,8 +12,12 @@ The goal of this project is to identify the factors that best indicate a tendenc
 
 Alcohol can impair judgment, memory, and concentration, making it difficult for students to focus and learn effectively. Drinking alcohol at a young age can harm physical development and increase the risk of developing long-term health problems such as liver disease, heart disease, and certain cancers. Furthermore, excessive drinking can lead to risky behaviors such as violence, unprotected sex, and drunk driving, which can have serious consequences for students and others. What’s more, underage drinking is illegal in many places, and students who are caught drinking or possessing alcohol can face legal consequences such as fines, community service, or even juvenile detention. Finally, alcohol use among teenagers is often associated with an increased risk of mental health issues such as depression and anxiety.
 
+Reference for above content: https://www.cdc.gov/alcohol/fact-sheets/alcohol-use.htm#:~:text=Long%2DTerm%20Health%20Risks,liver%20disease%2C%20and%20digestive%20problems.&text=Cancer%20of%20the%20breast%2C%20mouth,liver%2C%20colon%2C%20and%20rectum.
+
 ## Data Description
-The datasets we have chosen were obtained in a survey of students’ math and Portuguese language courses in a secondary school. It contains features regarding social, gender and academic information about students. The math dataset, which we used for the project, covers students from a math class, and has 345 rows spread across 33 columns. Some of our primary variables for observation were ‘G3’, which represents the students’ final grade in the class, ‘absences’, ‘Walc’ and ‘Dalc’, which represent weekend and weekday alcohol consumption, and ‘studytime’. There is a full data dictionary under the Kaggle dataset linked above.
+Kaggle Link: https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
+
+The dataset we have chosen was obtained in a survey of students’ math and Portuguese language courses in a secondary school. It can be accessed via the link above, and can be downloaded as a .zip file, which can be unzipped to reveal the student-mat.csv which is the dataset we used. It contains features regarding social, gender and academic information about students. The math dataset covers students from a math class, and has 345 rows spread across 33 columns. Some of our primary variables for observation were ‘G3’, which represents the students’ final grade in the class, ‘absences’, ‘Walc’ and ‘Dalc’, which represent weekend and weekday alcohol consumption, and ‘studytime’. Variables are in a variety of forms: strings, integers,  binary (y/n). There is a full data dictionary under the Kaggle dataset linked above.
 
 The dataset contains numerous categories that could shed light on what causes student drinking as well as the affects of student alcohol consumption. The columns of data used in our visualizations include:
 
@@ -24,11 +29,6 @@ The dataset contains numerous categories that could shed light on what causes st
 There are other columns of data for each student in the data set, however, they did not appear impactful in the level of weekday and weekend alcohol consumption and/or in analyzing how the level of drinking impacted the academic performance for the students.
 
 ## Interpreting Visualizations
-### Tableau Public Link
-URL: https://public.tableau.com/views/AlcoholConsumputionDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
-
-### JupyterNotebook Link (for decision tree code)
-URL: http://localhost:8888/notebooks/Alcohol%20Consumption%20ML.ipynb
 
 ### Decision Tree (predictor variable: final grade)
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/7921f8a1-77e6-49a1-b70e-50ec34b7f79f)
@@ -63,17 +63,16 @@ So, we have some definitive evidence that alcohol consumption is causing absence
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/ddded9c0-c996-4773-971c-532635d0bc8a)
 
 ### Explanation:
-Here, we see that 'goout', the variable that judges how much students go out with their friends, is the most significant predictor of how much alcohol they use. Alcohol is typically regarded as a social substance, which supports this notion. 
-Age, too, proves to be a significant indicator, which also checks out, due to substance use trends among young adults especially around the age of 16.
+In order to determine what demographical/behavioral factors are most associated with students' alcohol usage, we trained two more decision trees. This is the first, which was trained to find the variables best at predicting weekend alcohol consumption. Here, we see that 'goout', the variable that judges how much students go out with their friends, is the most significant predictor of how much alcohol they use. Alcohol is typically regarded as a social substance, which supports this notion. Age, too, proves to be a significant indicator, which also checks out, due to substance use trends among young adults especially around the age of 16.
 
 ### Decision tree (predictor variable: Weekday Alcohol Consumption)
 
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/6e11d60b-49b7-4db8-9f67-b991710e02b4)
 
 ### Explanation:
-'Goout' is once again the most significant predictor of alcohol consumption. However, 'famrel', or family relationship level is also a significant predictor. This shifts our attention to nuclear family dynamics. It seems that that the better relationship a family has, the more likely a student would be to have a higher alcohol consumption. This might be tied to our understandind of alcohol as a social substance, one that is commonly used among people who are more extroverted. Or, the student might be more inclined to rate their family relationship level higher if their parents condone bad habits like drinking. 
+The second decision tree was trained to find the variables best at predicting weekday alcohol consumption. 'Goout' is once again the most significant predictor of alcohol consumption. However, 'famrel', or family relationship level is also a significant predictor. This shifts our attention to nuclear family dynamics. It seems that that the better relationship a family has, the more likely a student would be to have a higher alcohol consumption. This might be tied to our understandind of alcohol as a social substance, one that is commonly used among people who are more extroverted. Or, the student might be more inclined to rate their family relationship level higher if their parents condone bad habits like drinking. 
 
 
 ### Discussion & Summary
-The visualizations for this project focused on what causes students to consume alcohol during the week and on the weekends and how the level of drinking affects their academic effort and performance. Numerous factors were examined in two decision trees finding reasons for weekend and weekday alcohol consumption. In both decision trees, the factor 'goout', which is a rating from 1-5, was the most influential factor in determining the level of alcohol consumption. Family relationship factors also were a helpful predictor, showing that a better relationship with one's family led to lower level of alcohol consumption. 
+The visualizations for this project focused on what causes students to consume alcohol during the week and on the weekends and how the level of drinking affects their academic effort and performance. Numerous factors were examined in two decision trees finding reasons for weekend and weekday alcohol consumption. In both decision trees, the factor 'goout', which is a rating from 1-5, was the most influential factor in determining the level of alcohol consumption. Family relationship factors also were a helpful predictor, showing that a better relationship with one's family led to higher level of alcohol consumption. 
 For academic effort, the visualizations above showed a clear trend of a higher level of alcohol consumption, during the week and weekend, led to a larger number of absences for the students. With more absences and higher level of drinking, the students had failed more classes. When examining the final grades for the students and their rating of alcohol consumption, the students with lower drinking levels had higher final grades in the classes. 
