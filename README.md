@@ -2,17 +2,20 @@
 Authors: Ryan Kauffman (rkauffman@elon.edu), Paul Walker (pwalker3@elon.edu), Grant Ardell (gardell@elon.edu)
 
 ## Project Description
-
+The goal of this project is to identify the factors that best indicate a tendency for a student to consume alcohol, and to determine how alcohol consumption affects academic efforts or success.
 ### Questions of interest
-- Question 1
-- Question 2
+- What factors indicate a tendency for a student to consume alcohol?
+- Does alcohol affect academic efforts or success?
+  
 ### Importance
-- This is *especially* **important** because
- 1. Reason 1
- 2. Reason 2 [Elon University](https://elon.edu)
+
+Alcohol can impair judgment, memory, and concentration, making it difficult for students to focus and learn effectively. Drinking alcohol at a young age can harm physical development and increase the risk of developing long-term health problems such as liver disease, heart disease, and certain cancers. Furthermore, excessive drinking can lead to risky behaviors such as violence, unprotected sex, and drunk driving, which can have serious consequences for students and others. What’s more, underage drinking is illegal in many places, and students who are caught drinking or possessing alcohol can face legal consequences such as fines, community service, or even juvenile detention. Finally, alcohol use among teenagers is often associated with an increased risk of mental health issues such as depression and anxiety.
 
 ## "Data Description"
+The datasets we have chosen were obtained in a survey of students’ math and Portuguese language courses in a secondary school. It contains features regarding social, gender and academic information about students. The math dataset, which we used for the project, covers students from a math class, and has 345 rows spread across 33 columns. Some of our primary variables for observation were ‘G3’, which represents the students’ final grade in the class, ‘absences’, ‘Walc’ and ‘Dalc’, which represent weekend and weekday alcohol consumption, and ‘studytime’. There is a full data dictionary under the Kaggle dataset linked above.
+
 The dataset contains numerous categories that could shed light on what causes student drinking as well as the affects of student alcohol consumption. The columns of data used in our visualizations include:
+
 - Weekday alcohol consumption (Dalc), and weekend alcohol consumption (Walc), is a rating of 1-4, with 4 being the highest.
 - Grades were not on a 100 point scale, but a 20 point scale. There were two mid-term grades, G1 and G2, and the final grade of G3 for each student.
 - Absences are the number of times each student was not present in class.
