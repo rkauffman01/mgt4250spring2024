@@ -46,7 +46,7 @@ This visualization investigates the final grades of the courses and compares tho
 ## Absences and Alcohol
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/8371a498-2583-4e70-a55e-e0e79a80c493)
 ### Explanation:
-
+This visualization looks at the level of weekend and weekday alcohol consumption and the number of absences for each student. While the relationship is not an exact linear correlation, as some people still go to class and consume alcohol, the trendline shows a clear positive linear relationship overall. This trendline slope indicates that the higher level of alcohol consumption tends to lead to more class absences from students.
 
 ## Failures and Alcohol
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/c89b8ffa-dc05-4b11-a210-7f9c510c5d5e)
