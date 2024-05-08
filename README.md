@@ -41,7 +41,7 @@ This visualization investigates the final grades of the courses and compares tho
 ## Final Grades by Absences and Failures
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/5b516f98-8b0c-42e6-a355-60264cd66755)
 ### Explanation:
-
+This visualization is a histogram that shows the final grades, G3, in bins of 2. Included in the detail for each bin, is the average number of absences and failures for the students included in that bin. As can be seen in the visualization, the average failures and absences decreases as the final grade increases. This can be interpreted as a clear indication that more failures and absences leads to worse grades.
 
 ## Absences and Alcohol
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/8371a498-2583-4e70-a55e-e0e79a80c493)
