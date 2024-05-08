@@ -74,5 +74,44 @@ The second decision tree was trained to find the variables best at predicting we
 
 
 ### Discussion & Summary
+The first query to ChatGPT was: What factors indicate a tendency for a student to consume alcohol? The response was: 
+Several factors can indicate a tendency for a student to consume alcohol. These may include:
+Peer Influence: Students may be more likely to consume alcohol if their peers do so. Peer pressure can play a significant role in shaping behavior during adolescence and early adulthood.
+
+Family Environment: The family environment, including parental attitudes toward alcohol and family history of alcohol use, can influence a student's likelihood of consuming alcohol. For example, students with parents who drink heavily or have permissive attitudes toward alcohol may be more inclined to do so themselves.
+
+Social Environment: Social events and gatherings where alcohol is present can increase the likelihood of alcohol consumption among students, especially if these events are perceived as opportunities for socializing and having fun.
+Stress and Coping Mechanisms: Students may turn to alcohol as a way to cope with stress, anxiety, or other negative emotions. High levels of stress from academic pressures, relationship issues, or other sources can increase the risk of alcohol use as a maladaptive coping mechanism.
+
+Personality Traits: Certain personality traits, such as sensation-seeking or impulsivity, may predispose individuals to engage in risky behaviors like alcohol consumption.
+
+Mental Health Issues: Students with underlying mental health conditions, such as depression or anxiety, may be more susceptible to alcohol use as a form of self-medication or as a means of escaping from their problems.
+
+Accessibility and Availability: Easy access to alcohol, whether at home or through social networks, can increase the likelihood of consumption among students.
+Cultural and Societal Factors: Cultural norms and societal attitudes toward alcohol can also influence student behavior. In some cultures, alcohol consumption may be more socially acceptable or even encouraged, which can impact individual attitudes and behaviors.
+
+Advertising and Media Influence: Advertising and media portrayals of alcohol consumption can shape perceptions and attitudes toward drinking, particularly among young people.
+Educational Programs and Prevention Efforts: Effective educational programs and prevention efforts aimed at raising awareness about the risks associated with alcohol use and promoting healthier alternatives can help reduce the likelihood of student alcohol consumption.
+
+Understanding these factors can inform prevention and intervention strategies aimed at reducing alcohol-related harm among students.
+
+The second query to ChatGPT was: Does alcohol affect academic efforts or success? The response was: 
+Yes, alcohol can have a significant impact on academic efforts and success. Here are some ways in which alcohol consumption can affect academic performance:
+
+Impaired Cognitive Functioning: Alcohol consumption can impair cognitive functioning, including memory, attention, and decision-making abilities. This can make it difficult for students to concentrate, retain information, and perform well on academic tasks such as studying, taking exams, or completing assignments.
+
+Decreased Motivation and Productivity: Excessive alcohol use can lead to decreased motivation and productivity, making it harder for students to stay focused and engaged in their academic pursuits. This can result in procrastination, missed deadlines, and lower overall academic performance.
+
+Poor Judgment and Risky Behaviors: Alcohol can impair judgment and increase the likelihood of engaging in risky behaviors, such as substance abuse, reckless driving, or unprotected sexual activity. These behaviors can have negative consequences that interfere with academic success, such as legal problems, health issues, or interpersonal conflicts.
+
+Missed Classes and Poor Attendance: Students who consume alcohol excessively may be more likely to miss classes or have poor attendance due to hangovers, fatigue, or other alcohol-related issues. This can result in missed lectures, incomplete coursework, and a lack of participation, all of which can impact academic performance.
+
+Negative Impact on Mental Health: Alcohol misuse is associated with an increased risk of mental health problems such as depression, anxiety, and stress. These mental health issues can interfere with a student's ability to focus, concentrate, and effectively manage academic responsibilities.
+
+Long-Term Consequences: Chronic alcohol misuse can have long-term consequences on academic success, including academic probation, dismissal from school, or delayed graduation. These consequences can have a lasting impact on a student's educational and career prospects.
+
+Overall, alcohol consumption can undermine academic efforts and success by impairing cognitive functioning, decreasing motivation and productivity, promoting risky behaviors, interfering with attendance and participation, exacerbating mental health issues, and leading to long-term consequences. Encouraging responsible alcohol use and providing support services for students struggling with alcohol-related issues can help mitigate these negative effects and promote academic success.
+
+
 The visualizations for this project focused on what causes students to consume alcohol during the week and on the weekends and how the level of drinking affects their academic effort and performance. Numerous factors were examined in two decision trees finding reasons for weekend and weekday alcohol consumption. In both decision trees, the factor 'goout', which is a rating from 1-5, was the most influential factor in determining the level of alcohol consumption. Family relationship factors also were a helpful predictor, showing that a better relationship with one's family led to higher level of alcohol consumption. 
 For academic effort, the visualizations above showed a clear trend of a higher level of alcohol consumption, during the week and weekend, led to a larger number of absences for the students. With more absences and higher level of drinking, the students had failed more classes. When examining the final grades for the students and their rating of alcohol consumption, the students with lower drinking levels had higher final grades in the classes. 
