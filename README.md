@@ -11,7 +11,7 @@ The goal of this project is to identify the factors that best indicate a tendenc
 
 Alcohol can impair judgment, memory, and concentration, making it difficult for students to focus and learn effectively. Drinking alcohol at a young age can harm physical development and increase the risk of developing long-term health problems such as liver disease, heart disease, and certain cancers. Furthermore, excessive drinking can lead to risky behaviors such as violence, unprotected sex, and drunk driving, which can have serious consequences for students and others. What’s more, underage drinking is illegal in many places, and students who are caught drinking or possessing alcohol can face legal consequences such as fines, community service, or even juvenile detention. Finally, alcohol use among teenagers is often associated with an increased risk of mental health issues such as depression and anxiety.
 
-## "Data Description"
+## Data Description
 The datasets we have chosen were obtained in a survey of students’ math and Portuguese language courses in a secondary school. It contains features regarding social, gender and academic information about students. The math dataset, which we used for the project, covers students from a math class, and has 345 rows spread across 33 columns. Some of our primary variables for observation were ‘G3’, which represents the students’ final grade in the class, ‘absences’, ‘Walc’ and ‘Dalc’, which represent weekend and weekday alcohol consumption, and ‘studytime’. There is a full data dictionary under the Kaggle dataset linked above.
 
 The dataset contains numerous categories that could shed light on what causes student drinking as well as the affects of student alcohol consumption. The columns of data used in our visualizations include:
@@ -23,7 +23,7 @@ The dataset contains numerous categories that could shed light on what causes st
 
 There are other columns of data for each student in the data set, however, they did not appear impactful in the level of weekday and weekend alcohol consumption and/or in analyzing how the level of drinking impacted the academic performance for the students.
 
-## "Interpreting Visualizations"
+## Interpreting Visualizations
 ### Tableau Public Link
 URL: https://public.tableau.com/views/AlcoholConsumputionDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
@@ -74,6 +74,6 @@ Age, too, proves to be a significant indicator, which also checks out, due to su
 'Goout' is once again the most significant predictor of alcohol consumption. However, 'famrel', or family relationship level is also a significant predictor. This shifts our attention to nuclear family dynamics. It seems that that the better relationship a family has, the more likely a student would be to have a higher alcohol consumption. This might be tied to our understandind of alcohol as a social substance, one that is commonly used among people who are more extroverted. Or, the student might be more inclined to rate their family relationship level higher if their parents condone bad habits like drinking. 
 
 
-### "Discussion & Summary"
+### Discussion & Summary
 age and culture of being social with friends leads to drinking blah blah blah and parents can also condone drinking which can be harmful blah blah blah
 something something conclusion.
