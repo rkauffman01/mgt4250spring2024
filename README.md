@@ -79,6 +79,7 @@ In an article written by Campus Drug Prediction, the effects of drug and alcohol
 https://www.campusdrugprevention.gov/views-from-the-field/data-show-alcohol-and-drug-use-hinder-academic-performance#:~:text=They%20are%20likely%20to%20commit,graduating%20are%20likely%20to%20decline.
 ### ChatGPT Queries
 The first query to ChatGPT was: What factors indicate a tendency for a student to consume alcohol? The response was: 
+
 Several factors can indicate a tendency for a student to consume alcohol. These may include:
 Peer Influence: Students may be more likely to consume alcohol if their peers do so. Peer pressure can play a significant role in shaping behavior during adolescence and early adulthood.
 
@@ -100,6 +101,7 @@ Educational Programs and Prevention Efforts: Effective educational programs and 
 Understanding these factors can inform prevention and intervention strategies aimed at reducing alcohol-related harm among students.
 
 The second query to ChatGPT was: Does alcohol affect academic efforts or success? The response was: 
+
 Yes, alcohol can have a significant impact on academic efforts and success. Here are some ways in which alcohol consumption can affect academic performance:
 
 Impaired Cognitive Functioning: Alcohol consumption can impair cognitive functioning, including memory, attention, and decision-making abilities. This can make it difficult for students to concentrate, retain information, and perform well on academic tasks such as studying, taking exams, or completing assignments.
