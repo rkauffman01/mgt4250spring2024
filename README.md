@@ -60,7 +60,7 @@ So, we have some definitive evidence that alcohol consumption is causing absence
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/ddded9c0-c996-4773-971c-532635d0bc8a)
 
 ### Explanation:
-Here, we see that goout, the variable that judges how much students go out with their friends, is the most significant predictor of how much alcohol they use. Alcohol is typically regarded as a social substance, which supports this notion. 
+Here, we see that 'goout', the variable that judges how much students go out with their friends, is the most significant predictor of how much alcohol they use. Alcohol is typically regarded as a social substance, which supports this notion. 
 Age, too, proves to be a significant indicator, which also checks out, due to substance use trends among young adults especially around the age of 16.
 
 ### Decision tree (predictor variable: Weekday Alcohol Consumption)
@@ -68,8 +68,9 @@ Age, too, proves to be a significant indicator, which also checks out, due to su
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/6e11d60b-49b7-4db8-9f67-b991710e02b4)
 
 ### Explanation:
-
+'Goout' is once again the most significant predictor of alcohol consumption. However, 'famrel', or family relationship level is also a significant predictor. This shifts our attention to nuclear family dynamics. It seems that that the better relationship a family has, the more likely a student would be to have a higher alcohol consumption. This might be tied to our understandind of alcohol as a social substance, one that is commonly used among people who are more extroverted. Or, the student might be more inclined to rate their family relationship level higher if their parents condone bad habits like drinking. 
 
 
 ### "Discussion & Summary"
-
+age and culture of being social with friends leads to drinking blah blah blah and parents can also condone drinking which can be harmful blah blah blah
+something something conclusion.
