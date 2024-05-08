@@ -74,6 +74,10 @@ The second decision tree was trained to find the variables best at predicting we
 
 
 ### Discussion & Summary
+### Article Summary
+In an article written by Campus Drug Prediction, the effects of drug and alcohol consumption by students are discussed. According to the article, there are a number of ways in which students can be negatively impacted by excessive amounts of alcohol. First, drinking can have decrease one's ability to process information, sometimes long term. With excessive alcohol consumption, a student's brain can become dependent on the use of alcohol, causing them to spend less time studying and going to class, leading to absences, lower grades, and failed classes. 
+https://www.campusdrugprevention.gov/views-from-the-field/data-show-alcohol-and-drug-use-hinder-academic-performance#:~:text=They%20are%20likely%20to%20commit,graduating%20are%20likely%20to%20decline.
+### ChatGPT Queries
 The first query to ChatGPT was: What factors indicate a tendency for a student to consume alcohol? The response was: 
 Several factors can indicate a tendency for a student to consume alcohol. These may include:
 Peer Influence: Students may be more likely to consume alcohol if their peers do so. Peer pressure can play a significant role in shaping behavior during adolescence and early adulthood.
