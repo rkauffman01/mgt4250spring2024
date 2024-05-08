@@ -36,7 +36,7 @@ Because we had so many variables within this dataset, we decided to use a decisi
 ### Final Grades by Drinking Averages
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/072e4f59-be7e-44cb-9d40-c811c94e5671)
 ### Explanation: 
-This visualization investigates the final grades of the courses and compares those grades with the amount of drinking each student partakes in. The results show a direct correlation between better grades and less alcohol consumption. This is a clear indicator that alcohol consumption can inhibit academic ability. 
+This visualization investigates the final grades of the courses and compares those grades with the amount of drinking each student partakes in. The results show a direct correlation between better grades and less alcohol consumption. This is a clear indicator that alcohol consumption can inhibit academic ability.
 
 ### Final Grades by Absences and Failures
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/5b516f98-8b0c-42e6-a355-60264cd66755)
@@ -61,12 +61,14 @@ So, we have some definitive evidence that alcohol consumption is causing absence
 
 ### Explanation:
 Here, we see that goout, the variable that judges how much students go out with their friends, is the most significant predictor of how much alcohol they use. Alcohol is typically regarded as a social substance, which supports this notion. 
+Age, too, proves to be a significant indicator, which also checks out, due to substance use trends among young adults especially around the age of 16.
 
 ### Decision tree (predictor variable: Weekday Alcohol Consumption)
 
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/6e11d60b-49b7-4db8-9f67-b991710e02b4)
 
 ### Explanation:
+
 
 
 ### "Discussion & Summary"
