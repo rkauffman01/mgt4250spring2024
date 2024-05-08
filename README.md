@@ -75,5 +75,5 @@ Age, too, proves to be a significant indicator, which also checks out, due to su
 
 
 ### Discussion & Summary
-age and culture of being social with friends leads to drinking blah blah blah and parents can also condone drinking which can be harmful blah blah blah
-something something conclusion.
+The visualizations for this project focused on what causes students to consume alcohol during the week and on the weekends and how the level of drinking affects their academic effort and performance. Numerous factors were examined in two decision trees finding reasons for weekend and weekday alcohol consumption. In both decision trees, the factor 'goout', which is a rating from 1-5, was the most influential factor in determining the level of alcohol consumption. Family relationship factors also were a helpful predictor, showing that a better relationship with one's family led to lower level of alcohol consumption. 
+For academic effort, the visualizations above showed a clear trend of a higher level of alcohol consumption, during the week and weekend, led to a larger number of absences for the students. With more absences and higher level of drinking, the students had failed more classes. When examining the final grades for the students and their rating of alcohol consumption, the students with lower drinking levels had higher final grades in the classes. 
