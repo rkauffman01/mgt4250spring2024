@@ -1,4 +1,4 @@
-# MGT4250 Spring 2024 Course Project: Alcohol Consumption Effect on Grades
+# MGT4250 Spring 2024 Course Project: Alcohol Consumption Effect on Students
 Authors: Ryan Kauffman (rkauffman@elon.edu), Paul Walker (pwalker3@elon.edu), Grant Ardell (gardell@elon.edu)
 
 ## Project Description
