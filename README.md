@@ -30,7 +30,7 @@ There are other columns of data for each student in the data s[Uploading Alcohol
 et, however, they did not appear impactful in the level of weekday and weekend alcohol consumption and/or in analyzing how the level of drinking impacted the academic performance for the students.
 
 ## Interpreting Visualizations
-Decision Trees generated via JupyterNotebook: 
+Decision Trees generated via JupyterNotebook which can be found in the repository. 
 
 ### Decision Tree (predictor variable: final grade)
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/7921f8a1-77e6-49a1-b70e-50ec34b7f79f)
