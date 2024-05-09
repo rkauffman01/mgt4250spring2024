@@ -26,10 +26,11 @@ The dataset contains numerous categories that could shed light on what causes st
 - Absences are the number of times each student was not present in class.
 - Failures are the number of times each student failed a class.
 
-There are other columns of data for each student in the data set, however, they did not appear impactful in the level of weekday and weekend alcohol consumption and/or in analyzing how the level of drinking impacted the academic performance for the students.
+There are other columns of data for each student in the data s[Uploading Alcohol Consumption ML.ipynb…]()
+et, however, they did not appear impactful in the level of weekday and weekend alcohol consumption and/or in analyzing how the level of drinking impacted the academic performance for the students.
 
 ## Interpreting Visualizations
-Decision Trees generated via JupyterNotebook: [http://127.0.0.1:8888/lab/tree/Alcohol%20Consumption%20ML.ipynb](http://127.0.0.1:8888/lab/tree/Alcohol%20Consumption%20ML.ipynb)
+Decision Trees generated via JupyterNotebook: 
 
 ### Decision Tree (predictor variable: final grade)
 ![image](https://github.com/rkauffman01/mgt4250spring2024/assets/168774318/7921f8a1-77e6-49a1-b70e-50ec34b7f79f)
